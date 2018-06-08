@@ -1,0 +1,9 @@
+﻿Buildfile: C:\Users\C51426\Mendix Applications\SmartRepository-main\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 44 files to C:\Users\C51426\Mendix Applications\SmartRepository-main\deployment
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
